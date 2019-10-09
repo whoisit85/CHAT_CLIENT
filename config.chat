@@ -1,0 +1,8 @@
+Host=192.168.1.104
+Port=2019
+User=Test
+Password=kaka
+HelloMSG=Kuku rebyata!
+ExitMSG=Bye! Bye!
+
+

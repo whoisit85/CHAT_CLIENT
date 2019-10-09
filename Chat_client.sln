@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chat_client", "Chat_client.vcxproj", "{910BDFAD-4FEE-4BD5-B4CA-FD32364C2B78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{910BDFAD-4FEE-4BD5-B4CA-FD32364C2B78}.Debug|x64.ActiveCfg = Debug|x64
+		{910BDFAD-4FEE-4BD5-B4CA-FD32364C2B78}.Debug|x64.Build.0 = Debug|x64
+		{910BDFAD-4FEE-4BD5-B4CA-FD32364C2B78}.Debug|x86.ActiveCfg = Debug|Win32
+		{910BDFAD-4FEE-4BD5-B4CA-FD32364C2B78}.Debug|x86.Build.0 = Debug|Win32
+		{910BDFAD-4FEE-4BD5-B4CA-FD32364C2B78}.Release|x64.ActiveCfg = Release|x64
+		{910BDFAD-4FEE-4BD5-B4CA-FD32364C2B78}.Release|x64.Build.0 = Release|x64
+		{910BDFAD-4FEE-4BD5-B4CA-FD32364C2B78}.Release|x86.ActiveCfg = Release|Win32
+		{910BDFAD-4FEE-4BD5-B4CA-FD32364C2B78}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE84A2CD-1497-4410-87D2-86151C7F9086}
+	EndGlobalSection
+EndGlobal
